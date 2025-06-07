@@ -13,7 +13,7 @@
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-a1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-a1&theme=github_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 #
 <p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitor-a1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
